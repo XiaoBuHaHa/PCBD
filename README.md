@@ -12,7 +12,7 @@
 
 ## Introduction
 
-In this paper, we propose the LiDAR Distillation to bridge the domain gap induced by different LiDAR beams for 3D object detection. In many real-world applications, the LiDAR points used by mass-produced robots and vehicles usually have fewer beams than that in large-scale public datasets. Moreover, as the LiDARs are upgraded
+In this paper, we propose the PCBD to bridge the domain gap induced by different LiDAR beams for 3D object detection. In many real-world applications, the LiDAR points used by mass-produced robots and vehicles usually have fewer beams than that in large-scale public datasets. Moreover, as the LiDARs are upgraded
 to other product models with different beam amount, it becomes challenging to utilize the labeled data captured by previous versions’ high-resolution sensors. Despite the recent progress on domain adaptive 3D
 detection, most methods struggle to eliminate the beam-induced domain gap. 
 
@@ -85,13 +85,9 @@ If you find this project useful in your research, please consider cite:
 }
 ```
 ```
-@misc{openpcdet2020,
-    title={OpenPCDet: An Open-source Toolbox for 3D Object Detection from Point Clouds},
-    author={OpenPCDet Development Team},
-    howpublished = {\url{https://github.com/open-mmlab/OpenPCDet}},
-    year={2020}
-}
+
 ```
+
 
 
 

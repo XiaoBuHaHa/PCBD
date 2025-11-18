@@ -71,7 +71,7 @@ Our code is released under the Apache 2.0 license.
 
 ## Acknowledgement
 
-Our code is heavily based on [OpenPCDet v0.2](https://github.com/open-mmlab/OpenPCDet/tree/v0.2.0) and [ST3D](https://github.com/CVMI-Lab/ST3D). Thanks OpenPCDet Development Team for their awesome codebase.
+Our code is heavily based on [OpenPCDet v0.2](https://github.com/open-mmlab/OpenPCDet/tree/v0.2.0) and [LIDAR Distill](https://github.com/weiyithu/LiDAR-Distillation?tab=readme-ov-file). Thanks OpenPCDet Development Team for their awesome codebase.
 
 ## Citation
 
@@ -87,6 +87,7 @@ If you find this project useful in your research, please consider cite:
 ```
 
 ```
+
 
 
 

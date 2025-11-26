@@ -1,5 +1,5 @@
 # PCBD
-### [Paper](https://arxiv.org/abs/2203.14956) | [Model](https://cloud.tsinghua.edu.cn/d/8c4541693833471e8b13/) 
+### [Paper]() | [Model]() 
  We will publish the code immediately once the paper is accepted
 <br/>
 > [] Progressive Cross-Beam Distillation Network for Robust 3D Object Detection in Sparse LiDAR Data
@@ -87,6 +87,7 @@ If you find this project useful in your research, please consider cite:
 ```
 
 ```
+
 
 
 

@@ -1,9 +1,7 @@
-# PCBD
+# Progressive Cross-Beam Distillation Network for Robust 3D Object Detection in Sparse LiDAR Data
 ### [Paper]() | [Model]() 
  We will publish the code immediately once the paper is accepted
 <br/>
-> [] Progressive Cross-Beam Distillation Network for Robust 3D Object Detection in Sparse LiDAR Data
-
 <p align='center'>
 <img src="./Image_show/Framework.png" width='80%'/>
 </p>
@@ -45,6 +43,7 @@ If you find this project useful in your research, please consider cite:
 ```
 
 ```
+
 
 
 

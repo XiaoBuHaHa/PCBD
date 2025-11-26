@@ -3,7 +3,6 @@
  We will publish the code immediately once the paper is accepted
 <br/>
 > [] Progressive Cross-Beam Distillation Network for Robust 3D Object Detection in Sparse LiDAR Data
-> [Yi Wei](https://weiyithu.github.io/), Zibu Wei, [Yongming Rao](https://raoyongming.github.io/), [Jiaxin Li](https://www.jiaxinli.me), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1) 
 
 <p align='center'>
 <img src="./Image_show/Framework.png" width='80%'/>
@@ -87,6 +86,7 @@ If you find this project useful in your research, please consider cite:
 ```
 
 ```
+
 
 
 
